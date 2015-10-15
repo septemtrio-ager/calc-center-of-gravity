@@ -28,3 +28,6 @@ At experiment, I want to make sure that my calculated result is correct. So I wr
 
 ## Example
 ![Example](Screenshot.png "Screenshot")
+
+## License
+This code is free software; you can redistribute it and/or modify it.
